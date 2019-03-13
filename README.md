@@ -1,4 +1,4 @@
-# Intrinsically-Disordered-Proteins-Alternative-Splicing-Post-translational-Modifications
+# IDP–AS–PTM hypothesis
 
 Title: Intrinsically Disordered Proteins(IDPs) Link Alternative Splicing (AS) and Post-translational Modifications (PTMs) to Complex Cell Signaling and Regulation.
 
