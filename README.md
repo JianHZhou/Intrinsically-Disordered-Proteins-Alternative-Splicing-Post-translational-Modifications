@@ -2,6 +2,8 @@
 
 Title: Intrinsically Disordered Proteins(IDPs) Link Alternative Splicing (AS) and Post-translational Modifications (PTMs) to Complex Cell Signaling and Regulation.
 
+![GraphAbstract](https://user-images.githubusercontent.com/48297393/54318943-2689db80-45a5-11e9-9417-f330dcf6267f.png)
+
 This project is to investigate the funcitonal role of intrinsically disordered proteins or regions in human signaling and regulatory proteins,
 such as G protein-coupled receptors (GPCRs),transcription factors(TFs), Src family kinases(SFKs), and many others.
 
